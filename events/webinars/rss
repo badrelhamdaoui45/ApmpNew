@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Upcoming Events</title>
+		<link>https://www.apmp.org/events/webinars/</link>
+		<atom:link href="https://www.apmp.org/events/webinars/" rel="self" type="application/rss+xml" />
+		<description>Shows a list of upcoming events.</description>
+		
+  		<item>
+  			<title>Applying the Proposal Leader Playbook with Microsoft and Optum</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-11 23:44:10</pubDate>
+        <ev:startdate>2024-02-21</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Impact of GenAI on the end-to-end BD Processes</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:16:48</pubDate>
+        <ev:startdate>2024-03-06</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Speaking to Influence: Mastering Your Leadership Voice (Leadership Series, Session 1)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:21:30</pubDate>
+        <ev:startdate>2024-03-07</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Building Leadership Capabilities: Focus on Transformational Leadership and Productivity (Leadership Series, Session 2)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:08:28</pubDate>
+        <ev:startdate>2024-03-21</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>How Design-to-Cost Improves your Pwin</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-16 13:29:23</pubDate>
+        <ev:startdate>2024-04-03</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>FREE APMP Certification Info Webinar, offered by CSK</title>
+  			<link></link>
+  			
+  			<pubDate>2023-12-13 15:10:52</pubDate>
+        <ev:startdate>2024-05-16</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+	</channel>
+</rss>

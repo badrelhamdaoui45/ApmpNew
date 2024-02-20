@@ -1,0 +1,100 @@
+<?xml version="1.0"?>
+<rss version="2.0" xmlns:ev="http://purl.org/rss/1.0/modules/event/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Upcoming Events</title>
+		<link>https://www.apmp.org/events/calendar/</link>
+		<atom:link href="https://www.apmp.org/events/calendar/" rel="self" type="application/rss+xml" />
+		<description>Shows a list of upcoming events.</description>
+		
+  		<item>
+  			<title>Applying the Proposal Leader Playbook with Microsoft and Optum</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-11 23:44:10</pubDate>
+        <ev:startdate>2024-02-21</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>APMP Writing Micro-Certification Online Course - 22 &amp; 23 Feb 2024</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-31 21:52:18</pubDate>
+        <ev:startdate>2024-02-22</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>APMP Foundation-Level Webinar Series Spring 2024 (3 Webinars à 90 minutes), offered by CSK</title>
+  			<link></link>
+  			
+  			<pubDate>2023-12-13 15:02:01</pubDate>
+        <ev:startdate>2024-02-26</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>APMP Bid and Proposal Writing Micro-Certification Training (London)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-12 18:56:54</pubDate>
+        <ev:startdate>2024-03-06</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Impact of GenAI on the end-to-end BD Processes</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:16:48</pubDate>
+        <ev:startdate>2024-03-06</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Speaking to Influence: Mastering Your Leadership Voice (Leadership Series, Session 1)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:21:30</pubDate>
+        <ev:startdate>2024-03-07</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Virtual APMP Foundation Training</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-26 20:23:50</pubDate>
+        <ev:startdate>2024-03-19</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>APMP Foundation training and exam (London)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-01-12 18:42:34</pubDate>
+        <ev:startdate>2024-03-20</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>Building Leadership Capabilities: Focus on Transformational Leadership and Productivity (Leadership Series, Session 2)</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-08 21:08:28</pubDate>
+        <ev:startdate>2024-03-21</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+  		<item>
+  			<title>How Design-to-Cost Improves your Pwin</title>
+  			<link></link>
+  			
+  			<pubDate>2024-02-16 13:29:23</pubDate>
+        <ev:startdate>2024-04-03</ev:startdate>
+  			<guid></guid>
+  		</item>
+		
+	</channel>
+</rss>
